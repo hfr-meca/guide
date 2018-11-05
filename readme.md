@@ -34,6 +34,42 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Langue et OS
 * Un cas particulier : l'US International
 
+
+### 5. Comment choisir ?
+* Marketing
+* Type de switch
+* Format
+* Disposition des touches
+* Rétroéclairage
+* Fonctionnalités diverses : macros, hub USB, repose-poignet
+* Qualité de fabrication & fiabilité
+ 
+
+### 6. Anatomie d'un clavier
+* Les touches
+  * matériaux
+  * légendes
+  * profil
+  * monture
+  * remplacer ses touches
+  
+* Design électrique
+  * ghosting et frappes fantômes
+  * anti-ghosting : blocking et autres solutions
+  * x-Key rollover et appuis simultanés
+  * USB et PS/2
+  * bouncing et chattering
+ 
+
+### 7. Logiciels utiles
+* MSKLC
+* KeyTweak
+* SharpKeys
+* AutoHotkey
+ 
+
+### 8. Liens
+
 ---
 
 body
