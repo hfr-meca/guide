@@ -6,7 +6,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
  
 
 
-### 1. Généralités
+### <a href="01-generalites">1. Généralités</a>
 * Pourquoi un clavier mécanique ?
 * Particularités et avantages du mécanique
 * Le bruit, une critique infondée ?
