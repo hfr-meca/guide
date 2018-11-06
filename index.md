@@ -36,7 +36,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Un cas particulier : l'US International
 
 
-### <a href="05-comment-choisir.md">5. Comment choisir ?</a>
+### <a href="05-comment-choisir.html">5. Comment choisir ?</a>
 * Marketing
 * Type de switch
 * Format
