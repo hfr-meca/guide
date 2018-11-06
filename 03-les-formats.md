@@ -1,4 +1,4 @@
-![Les formats](https://i.imgur.com/MlrBR6x.png)
+# 3. Les formats
 
 On trouve des claviers de toutes les tailles (et maintenant [de toutes les formes](http://ergodox.io/)), avec un nombre variable de touches. Concernant les tailles, on peut distinguer trois familles :
 
