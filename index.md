@@ -22,21 +22,21 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Les switchs Omron
  
 
-### 3. Les formats
+### <a href="03-les-formats.html">3. Les formats</a>
 * Full size
 * Tenkeyless
 * Compacts : 60%, 75% et autres
 * Les formats ergonomiques
  
 
-### 4. Layout : disposition des touches et des caractères
+### <a href="">4. Layout : disposition des touches et des caractères</a>
 * Disposition physique : ANSI et ISO
 * Disposition logique : ne dites plus "azerty" ou "qwerty"
 * Langue et OS
 * Un cas particulier : l'US International
 
 
-### 5. Comment choisir ?
+### <a href="">5. Comment choisir ?</a>
 * Marketing
 * Type de switch
 * Format
@@ -46,7 +46,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Qualité de fabrication & fiabilité
  
 
-### 6. Anatomie d'un clavier
+### <a href="">6. Anatomie d'un clavier</a>
 * Les touches
   * matériaux
   * légendes
@@ -62,11 +62,11 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
   * bouncing et chattering
  
 
-### 7. Logiciels utiles
+### <a href="">7. Logiciels utiles</a>
 * MSKLC
 * KeyTweak
 * SharpKeys
 * AutoHotkey
  
 
-### 8. Liens
+### <a href="">8. Liens</a>
