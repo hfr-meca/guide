@@ -1,18 +1,15 @@
 ![Liens utiles](https://i.imgur.com/vkORltV.png)
 
-![](https://reho.st/self/ce93ab1e00e2b0aabdb87772a6de4cf3ca576df6.png) #### 8. Liens
-
-![](https://reho.st/self/ce93ab1e00e2b0aabdb87772a6de4cf3ca576df6.png)<baltest>8. Liens</baltest>
-
-.
-
-<img src="https://reho.st/self/ce93ab1e00e2b0aabdb87772a6de4cf3ca576df6.png"><baltest>8. Liens</baltest>
-
-.
-
 #### 8. Liens
 
-.
+##### Proinde die funestis interrogationibus
+
+Praestituto imaginarius iudex equitum resedit magister adhibitis aliis iam quae essent agenda praedoctis, et adsistebant hinc inde notarii, quid quaesitum esset, quidve responsum, cursim ad Caesarem perferentes, cuius imperio truci, stimulis reginae exsertantis aurem subinde per aulaeum, nec diluere obiecta permissi nec defensi periere conplures.
+
+##### Cognitis enim pilatorum
+
+Caesorumque funeribus nemo deinde ad has stationes appulit navem, sed ut Scironis praerupta letalia declinantes litoribus Cypriis contigui navigabant, quae Isauriae scopulis sunt controversa.
+
 
 &nbsp;
 
