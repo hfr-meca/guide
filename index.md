@@ -29,7 +29,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Les formats ergonomiques
  
 
-### <a href="">4. Layout : disposition des touches et des caractères</a>
+### <a href="04-layout.html">4. Layout : disposition des touches et des caractères</a>
 * Disposition physique : ANSI et ISO
 * Disposition logique : ne dites plus "azerty" ou "qwerty"
 * Langue et OS
