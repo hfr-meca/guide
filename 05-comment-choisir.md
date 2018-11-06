@@ -12,7 +12,7 @@ Cette mise en garde passée, venons-en au fait : **comment, dans la jungle actue
 
 &nbsp;
 
-### • Le type de switch
+#### • Le type de switch
 
 C'est la première question à se poser : quel switch désirez-vous utiliser ? Dans l'absolu, il n'y a pas de règles fixes, en dépit des guides recommandant un type de switch précis pour chaque usage : tout est question de goût et surtout d'habitude, et il est fort probable que vous apprécierez autant un type de switch qu'un autre, même si les raisons sont différentes. 
 
