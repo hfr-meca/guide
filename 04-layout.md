@@ -2,6 +2,8 @@
 
 Il y a deux façons de décrire la disposition (le *layout*) des touches d'un clavier : la disposition **physique** et la disposition **logique**. Ces deux notions sont complémentaires.
 
+&nbsp;
+
 ### • La disposition physique : ANSI et ISO
 
 La **disposition physique** correspond à la façon dont les touches sont agencées les unes par rapport aux autres, indépendamment des lettres/caractères qui y sont associées. On distingue principalement deux dispositions physiques , l'[**ANSI**](http://fr.wikipedia.org/wiki/American_National_Standards_Institute]) et l'[**ISO**](http://fr.wikipedia.org/wiki/Organisation_internationale_de_normalisation) (on trouve aussi le [**JIS**](http://fr.wikipedia.org/wiki/Japanese_Industrial_Standard]), qui n'est courant qu'au Japon). Voici la façon dont elles sont agencées :
@@ -28,6 +30,7 @@ Comme les noms de ces dispositions l'indiquent (cf. liens wiki plus haut), l'ANS
 
 La dispositions physique étant établie, encore faut-il savoir quel caractère correspond à quelle touche, et c'est là qu'intervient...
 
+&nbsp;
 
 ### • La disposition logique : ne dites plus "azerty" ou "qwerty"
 
@@ -41,6 +44,7 @@ La **disposition logique** correspond à la répartition des caractères sur les
 
 Et ainsi de suite. Pour plus d'infos sur les différentes variantes, cf. [wikipedia](http://en.wikipedia.org/wiki/Keyboard_layout#QWERTY-based_layouts_for_Latin_script).
 
+&nbsp;
 
 ### • Langue et OS
 
@@ -51,6 +55,7 @@ Il est à noter que la disposition physique ou logique d'un clavier ne présume 
 
 ![[:arthoung31:2]](https://forum-images.hardware.fr/images/perso/2/arthoung31.gif) Les variantes régionales de l'ISO ne régissent que les caractères **imprimés sur les touches** (les légendes), qui sont purement indicatifs : au niveau matériel, un ISO d'une région est similaire à tout autre ISO et envoie toujours les mêmes codes à l'OS, qui les interprétera différemment selon la langue choisie dans l'OS. 
 
+&nbsp;
 
 ### Un cas particulier : l'US International
 
