@@ -90,6 +90,8 @@ Une variante linéaire a par la suite été introduite, toujours en exclusivité
 
 Le Romer-G dispose d'une monture propriétaire et ne permet donc pas d'accueillir des touches prévues pour d'autres familles de switchs, ce qui empêche de remplacer celles fournies avec le clavier et de profiter du riche écosystème Cherry.
 
----
+&nbsp;
 
-<a href="index.html">retour au sommaire</a> | suite : <a href="03-les-formats.html">Les formats</a>
+<p align="center">
+<sub><a href="index.html">retour au sommaire</a> | suite : <a href="03-les-formats.html">Les formats</a></sub>
+</p>
