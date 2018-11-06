@@ -54,7 +54,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
   * monture
   * remplacer ses touches
   
-* Design électrique
+* <a href="06.2-anatomie-elec.html">Design électrique</a>
   * ghosting et frappes fantômes
   * anti-ghosting : blocking et autres solutions
   * x-Key rollover et appuis simultanés
@@ -62,11 +62,11 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
   * bouncing et chattering
  
 
-### <a href="">7. Logiciels utiles</a>
+### <a href="07-logiciels">7. Logiciels utiles</a>
 * MSKLC
 * KeyTweak
 * SharpKeys
 * AutoHotkey
  
 
-### <a href="">8. Liens</a>
+### <a href="08-liens">8. Liens</a>
