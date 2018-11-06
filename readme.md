@@ -1,0 +1,3 @@
+### Première page du topic claviers mécaniques d'hfr
+
+Rien d'officiel pour le moment, juste quelques tests pour voir s'il est possible de trouver une façon plus aisée d'organiser le contenu, et éventuellement le mettre à jour à plusieurs.
