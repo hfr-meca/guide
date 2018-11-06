@@ -1,5 +1,7 @@
 ![Les switchs](https://i.imgur.com/HYCTawG.png)
 
+&nbsp;
+
 ### • Tactile ou linéaire, silencieux ou clicky
 
 C'est LA question obscure à laquelle est confronté tout premier acheteur de clavier mécanique, notamment ceux pourvu de switchs Cherry MX : quelle couleur de switch choisir ? On distingue principalement deux types de switchs , **linéaires** et **tactiles** ; et parmi ces derniers, certains sont silencieux, certains produisent un clic audible lors de l'appui — tous les linéaires étant silencieux.
@@ -36,6 +38,7 @@ Le switch clicky de chez Cherry le plus courant est le MX Blue. Le MX Green en e
 
 Il faut noter que ces switchs clicky sont affectés par un phénomène d'[hystérésis](https://fr.wikipedia.org/wiki/Hyst%C3%A9r%C3%A9sis) assez prononcé : après avoir appuyé sur un switch, il faut remonter sensiblement au-dessus du point d'actuation pour qu'une frappe puisse à nouveau être prise en compte. C'est ce qui conduit certains utilisateurs à les déconseiller pour le jeu, où il est parfois intéressant de spammer une touche en "flottant" autour du point d'actuation (répéter un appui très vite sans remonter jusqu'en haut). Ceux qui ont l'habitude de laisser la touche remonter complètement avant d'appuyer à nouveau ne seront cependant pas gênés par ce phénomène.
 
+&nbsp;
 
 ### • Les copies de switchs Cherry
 
@@ -49,6 +52,7 @@ Par ailleurs, certaines communautés ou vendeurs font produire des switchs selon
 
 Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : https://input.club/the-comparative-guide-to-mechanical-switches/
 
+&nbsp;
 
 ### • Le *Buckling Spring* d'IBM
 
@@ -63,6 +67,7 @@ Il s'agit donc d'un switch tactile à clic dont la sensation de frappe est uniqu
 
 Pour plus de détails, vous pouvez consulter [l'article dédié](http://deskthority.net/wiki/IBM_buckling_spring) sur le wiki de deskthority.
 
+&nbsp;
 
 ### • Le switch Topre
 
@@ -74,6 +79,7 @@ Les switchs Topre sont de type électro-capacitifs à dôme caoutchouc : au-dess
 
 Plus de détails sur le [wiki de deskthority](http://deskthority.net/wiki/Topre_switch).
 
+&nbsp;
 
 ### • Les switchs Alps & Matias
 
@@ -81,6 +87,7 @@ La société Alps a produit de nombreux types de switchs pour claviers depuis 19
 
 Suite à l'arrêt de la production de ces switchs en 2012, le fabricant de claviers Matias a mis au point un clone des Alps SKBM (dénommé simplement [*Matias switch*](http://deskthority.net/wiki/Matias_switch)) en version linéaire, clicky et tactile pour pouvoir continuer de les utiliser sur ses claviers. Ils sont compatibles avec l'ensemble des touches Alps produites depuis les années 80.
 
+&nbsp;
 
 ### • Les switchs Omron
 
