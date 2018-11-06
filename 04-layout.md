@@ -1,10 +1,10 @@
-![](https://i.imgur.com/X0jlkyt.png)
+# Le layout : disposition des touches et des caractères
 
 Il y a deux façons de décrire la disposition (le *layout*) des touches d'un clavier : la disposition **physique** et la disposition **logique**. Ces deux notions sont complémentaires.
 
 &nbsp;
 
-### • La disposition physique : ANSI et ISO
+#### • La disposition physique : ANSI et ISO
 
 La **disposition physique** correspond à la façon dont les touches sont agencées les unes par rapport aux autres, indépendamment des lettres/caractères qui y sont associées. On distingue principalement deux dispositions physiques , l'[**ANSI**](http://fr.wikipedia.org/wiki/American_National_Standards_Institute]) et l'[**ISO**](http://fr.wikipedia.org/wiki/Organisation_internationale_de_normalisation) (on trouve aussi le [**JIS**](http://fr.wikipedia.org/wiki/Japanese_Industrial_Standard]), qui n'est courant qu'au Japon). Voici la façon dont elles sont agencées :
 
@@ -32,7 +32,7 @@ La dispositions physique étant établie, encore faut-il savoir quel caractère 
 
 &nbsp;
 
-### • La disposition logique : ne dites plus "azerty" ou "qwerty"
+#### • La disposition logique : ne dites plus "azerty" ou "qwerty"
 
 La **disposition logique** correspond à la répartition des caractères sur les touches du clavier : c'est là qu'on parle d'*azerty*, de *qwerty* voire de *qwertz* ou de *qzerty*, mais ces appellations ont le défaut d'être vagues et d'entretenir une certaine confusion : le qwerty US est différent du qwerty UK qui a une touche en plus, l'azerty belge est différent de l'azerty français... Pour éviter cette confusion, il vaut mieux, lorsqu'on parle de la disposition d'un clavier, donner son appellation complète, c'est à dire sa disposition physique et logique : 
 
@@ -46,7 +46,7 @@ Et ainsi de suite. Pour plus d'infos sur les différentes variantes, cf. [wikipe
 
 &nbsp;
 
-### • Langue et OS
+#### • Langue et OS
 
 Il est à noter que la disposition physique ou logique d'un clavier ne présume en rien des caractères qu'il peut envoyer à un pc : un clavier n'envoie que des codes de touches (*scancodes*) qui sont ensuite interprétés par l'OS, c'est donc **la disposition choisie dans l'OS** (dans les options régionales/de langue) qui détermine l'association entre touches et caractères. Autrement dit, vous pouvez tout à fait utiliser ce genre de combinaisons :
 
@@ -57,7 +57,7 @@ Il est à noter que la disposition physique ou logique d'un clavier ne présume 
 
 &nbsp;
 
-### Un cas particulier : l'US International
+#### Un cas particulier : l'US International
 
 Si on peut, comme suggéré ci-dessus, utiliser une disposition azerty avec un clavier ANSI, il existe un layout dédié au format ANSI (104 touches) qui permet d'entrer tout ce dont un habitué de l'ISO FR a besoin, notamment les caractères accentués : c'est la disposition **US International**, à sélectionner dans les paramètres de langue de l'OS. 
 
