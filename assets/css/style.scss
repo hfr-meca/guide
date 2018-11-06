@@ -2,4 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+.inner {
+    max-width: 800px;
+    text-align: justify;
+}
 
+#project_title {
+    color: #fff0;
+    text-shadow: none;
+}
