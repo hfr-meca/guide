@@ -1,15 +1,4 @@
-![Liens utiles](https://i.imgur.com/vkORltV.png)
-
-#### 8. Liens
-
-##### Proinde die funestis interrogationibus
-
-Praestituto imaginarius iudex equitum resedit magister adhibitis aliis iam quae essent agenda praedoctis, et adsistebant hinc inde notarii, quid quaesitum esset, quidve responsum, cursim ad Caesarem perferentes, cuius imperio truci, stimulis reginae exsertantis aurem subinde per aulaeum, nec diluere obiecta permissi nec defensi periere conplures.
-
-##### Cognitis enim pilatorum
-
-Caesorumque funeribus nemo deinde ad has stationes appulit navem, sed ut Scironis praerupta letalia declinantes litoribus Cypriis contigui navigabant, quae Isauriae scopulis sunt controversa.
-
+#### 8. Liens utiles
 
 &nbsp;
 
