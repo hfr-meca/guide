@@ -1,8 +1,8 @@
-![Comment choisir un clavier](https://i.imgur.com/aJxVnXS.png)
+# Choisir un clavier
 
 &nbsp;
 
-### • Le Marketing
+#### • Le Marketing
 
 Plus qu'une réhabilitation, les claviers mécaniques ont connu ces dernières années un véritable retour en vogue, pour le meilleur comme pour le pire : un certain nombre de constructeurs ont pris pour cible le "gamer" et la communication s'est établie en grande partie sur des caractéristiques susceptibles de lui plaire (rétroéclairage, look agressif, macros et programmation, le tout saupoudré de jargon technique souvent peu informatif), à grand renfort de publicité et de sponsoring dans l'e-sport, et en misant souvent plus sur un design tape-à-l’œil et une liste de fonctionnalités longue comme le bras au dépend de ce qui a fait la réputation des claviers mécaniques — la solidité et la fiabilité. 
 
@@ -28,7 +28,7 @@ Dans tous les cas, on trouve de nombreuses personnes pour qui, contrairement aux
 
 &nbsp;
 
-### • Le format
+#### • Le format
 
 Une question pas forcément évidente : de quelle taille de clavier avez-vous besoin ? 
 
@@ -42,7 +42,7 @@ Quoi qu'il en soit, gardez à l'esprit qu'on n'achète pas un nombre de touches 
 
 &nbsp;
 
-### • La disposition
+#### • La disposition
 
 De façon intuitive, la disposition choisie dépendra de la langue que vous utilisez couramment, mais comme dit plus haut rien ne vous empêche d'utiliser un clavier ANSI (US) pour taper en français, tant que vous êtes capable de vous adapter aux différences entre ce qui est écrit sur la touche et le caractère effectivement interprété par l'OS (ce qui n'a rien de compliqué, c'est une simple habitude à prendre). 
 
@@ -50,7 +50,7 @@ Il est à noter que si vous désirez tirer parti de l'écosystème Cherry MX (to
 
 &nbsp;
 
-### • Rétroéclairage
+#### • Rétroéclairage
 
 Une fonctionnalité qui a gagné en popularité ces dernières années, pour le meilleur comme pour le pire ; mais si on peut débattre de l'intérêt de rétroéclairages façon arc en ciel, un rétroéclairage sobre a une utilité indiscutable dans certaines situations (même si les puristes argueront de l'inutilité de regarder son clavier lorsqu'on connaît sa disposition, ce en quoi ils n'auront pas tort). Quelques recommandations :
 
@@ -64,7 +64,7 @@ Une fonctionnalité qui a gagné en popularité ces dernières années, pour le 
 
 &nbsp;
 
-### • Fonctionnalités diverses
+#### • Fonctionnalités diverses
 
 Du fait d'une concurrence toujours plus accrue, les constructeurs rivalisent d'idées pour distinguer leurs produits ; parfois en misant sur le design, parfois sur des fonctionnalités supplémentaires, dont il est bien entendu qu'elles vous sont forcément indispensable. Voici un aperçu de ce que vous pouvez trouver, et en quoi leur importance est variable :
 
@@ -80,7 +80,7 @@ Du fait d'une concurrence toujours plus accrue, les constructeurs rivalisent d'i
 
 &nbsp;
 
-### • Qualité de fabrication & fiabilité
+#### • Qualité de fabrication & fiabilité
 
 Quelles que soient les caractéristiques que vous recherchez, évitez de faire passer la qualité de l'ensemble au dernier plan. Comme dit plus haut, la course à l'originalité et la concurrence sur un secteur de niche, mais que les constructeurs souhaitent justement élargir, en amène beaucoup à investir plus en marketing et sponsoring qu'en contrôle qualité. Même des marques généralement sérieuses et aux produits apparemment robustes peuvent sortir des claviers peu fiables — typiquement, un châssis séduisant en aluminium ne présage en rien de la fiabilité de l'électronique du clavier. Renseignez-vous donc bien sur la fiabilité de ce que vous voulez acheter (et par ailleurs la promesse d'un retour facile en SAV n'est pas une excuse pour vendre un mauvais produit). 
 
