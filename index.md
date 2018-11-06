@@ -12,7 +12,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Le bruit, une critique infondée ?
  
 
-### 2. Les switchs
+### <a href="02-les-switchs.html">2. Les switchs</a>
 * Cherry MX : Tactile ou linéaire, silencieux ou clicky
 * Les copies de Cherry MX
 * Le Buckling Spring d'IBM
