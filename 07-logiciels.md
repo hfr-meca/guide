@@ -1,4 +1,4 @@
-#### Logiciels utiles
+#### 7. Logiciels utiles
 
 Un certain nombre de logiciels peuvent être utiles, notamment pour réassigner des touches, créer une nouvelle disposition logique ou en adapter une à vos besoin (par exemple ajouter des guillemets français « » curieusement absents du layout azerty) ou encore programmer des macros.
 
