@@ -89,3 +89,7 @@ Plus connu pour ses microswitchs, Omron fabrique également des switchs pour cla
 Une variante linéaire a par la suite été introduite, toujours en exclusivité sur les claviers Logitech. Plus de détails sur le site du constructeur : https://www.logitechg.com/en-us/innovation/mechanical-switches.html (le GX Blue montré sur cette page est une copie du Cherry MX Blue qui ne partage pas la conception des Romer-G).
 
 Le Romer-G dispose d'une monture propriétaire et ne permet donc pas d'accueillir des touches prévues pour d'autres familles de switchs, ce qui empêche de remplacer celles fournies avec le clavier et de profiter du riche écosystème Cherry.
+
+---
+
+<a href="index.html">retour au sommaire</a> | suite : <a href="03-les-formats.html">Les formats</a>
