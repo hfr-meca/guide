@@ -1,4 +1,4 @@
-# Le layout : disposition des touches et des caractères
+# 4. Le layout : disposition des touches et des caractères
 
 Il y a deux façons de décrire la disposition (le *layout*) des touches d'un clavier : la disposition **physique** et la disposition **logique**. Ces deux notions sont complémentaires.
 
