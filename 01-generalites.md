@@ -36,6 +36,6 @@ Pour plus d'informations sur les o-rings, voir les messages de Lpwl [ici](http:/
 
 - les **QMX clips**, conçus et fabriqués par GMK, qui ne s'installent pas sous les touches mais par-dessus les switchs ; à l'inverse des deux solutions précédentes, ces accessoires n'amortissent pas simplement la butée mais aussi la remontée de la touche, ce qui procure une atténuation sonore plus aboutie. C'est la solution la plus chère mais aussi la plus aboutie techniquement, et les clips sont par ailleurs plus simples à installer/enlever que les o-rings. Deux variantes existent qui se différencient par leur mode de fixation, pour la plupart des claviers du commerce (dont les switchs sont fixés sur une plaque en acier) c'est la version [plate-mount](url=https://uniqey.net/en/accessories/18/qmx-clips-plate-mount-110-pcs) qu'il faut se procurer ; la version [pcb-mount](url=https://uniqey.net/en/accessories/17/qmx-clips-pcb-mount-110-pcs) n'est compatible qu'avec les claviers dont les switchs sont montés sur un pcb sans plaque en acier en renfort (certaines références Cherry classiques principalement ou des références plus exotiques).
 
-
+---
 
 <a href="index.html">retour au sommaire</a> | suite : <a href="02-les-switchs.html">Les switchs</a>
