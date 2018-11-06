@@ -46,7 +46,7 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Qualité de fabrication & fiabilité
  
 
-### <a href="">6. Anatomie d'un clavier</a>
+### <a href="06.1-anatomie-touches.html">6. Anatomie d'un clavier</a>
 * Les touches
   * matériaux
   * légendes
