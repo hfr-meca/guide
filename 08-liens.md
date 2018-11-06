@@ -21,6 +21,7 @@
 - [Typegun](https://typegun.com/), pour une approche plus ludique de la dactylographie.
 - [Key Hero](https://www.keyhero.com/) propose des exercices basés sur des textes littéraires, ainsi qu'un suivi visuel de sa progression.
 - [Z-Type](https://zty.pe/), un shooter pour mettre à l'épreuve sa dextérité dans un autre registre.
+
 &nbsp;
 
 <p align="center">
