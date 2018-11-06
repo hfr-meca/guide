@@ -6,6 +6,8 @@
 
 <title>8. Liens</title>
 
+.
+
 &nbsp;
 
 - [geekhack.org](https://geekhack.org/), forum nord-américain, où s'organisent fréquemment diverses commandes groupées (anglais)
