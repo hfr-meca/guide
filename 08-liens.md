@@ -6,6 +6,10 @@
 
 .
 
+<img src="https://reho.st/self/ce93ab1e00e2b0aabdb87772a6de4cf3ca576df6.png"><baltest>8. Liens</baltest>
+
+.
+
 &nbsp;
 
 - [geekhack.org](https://geekhack.org/), forum nord-américain, où s'organisent fréquemment diverses commandes groupées (anglais)
