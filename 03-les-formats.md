@@ -40,7 +40,7 @@ Le format 40% ortholinéaire :
 
 A noter que pour les claviers mécaniques, le format choisi ne change rien à la taille des touches ni à leur espacement : si vous prenez un clavier 60% avec switchs MX et le comparez à un full size, vous remarquerez que ses touches ne seront pas plus petites ni plus serrées : il y en a juste moins, et souvent agencées différemment.
 
-Le format détermine donc principalement le nombre de touches que vous aurez à votre disposition et la place que prendra votre clavier sur votre bureau. Pour savoir de quelle façon les caractères sont agencés dessus, il faut s'intéresser à leur disposition, ou leur *layout*.
+Le format détermine donc principalement le nombre de touches que vous aurez à votre disposition et la place que prendra votre clavier sur votre bureau. Pour savoir de quelle façon les caractères sont agencés dessus, il faut s'intéresser à leur disposition, ou *layout*.
 
 &nbsp;
 
