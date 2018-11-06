@@ -25,7 +25,7 @@ Cherry produit principalement deux switchs de type tactile (trois si l'on compte
 
 ![Cherry MX Brown](https://reho.st/gif/7d554e0f3c1be56e26178235816b05513bf96509.gif) ![Cherry MX Clear](https://reho.st/gif/2129d692bd8a61d6597299a76ac4e449f937cd23.gif)
 
-<sup>*Switchs tactiles.*</sup>
+*Switchs tactiles.*
 
 
 • Les **switchs clicky** sont des switchs tactiles dont le slider est en deux parties, et dont la partie mobile va au moment de l'actuation glisser vers le bas et heurter le fond du switch, produisant ainsi ce "clic" caractéristique. Le retour tactile est donc doublé d'un retour sonore.
