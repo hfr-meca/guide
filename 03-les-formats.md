@@ -4,7 +4,7 @@ On trouve des claviers de toutes les tailles (et maintenant [de toutes les forme
 
 • Le **full size** : c'est le clavier standard avec pavé numérique et toutes ses touches (105 en Europe, 104 aux US).
 
-![](https://i.imgur.com/S5HYkO4.png)
+![](images\layout-full-size.png)
 
 &nbsp;
 
