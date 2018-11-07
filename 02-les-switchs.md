@@ -14,7 +14,7 @@ Chez Cherry, les switchs linéaires sont le MX Red et le MX Black ; le Red offre
 
 Leur fonctionnement est représenté ainsi :
 
-![Cherry MX Red](/images/switch-mx-red.gif) ![Cherry MX Black](https://reho.st/gif/005cbd383c2fac8aaf5282c4c0cca7688284b0fe.gif)
+![Cherry MX Red](/images/switch-mx-red.gif) ![Cherry MX Black](/images/switch-mx-black.gif)
 
 *Switchs linéaires. Animations par Lethal Squirrel sur [geekhack.org](https://geekhack.org/index.php?topic=62946.0)*
 
@@ -26,7 +26,7 @@ On notera que la partie colorée qui glisse contre le contact en métal (le *sli
 
 Cherry produit principalement deux switchs de type tactile (trois si l'on compte le Blue qui est un cas à part décrit plus loin) : le MX Brown et le MX Clear, le premier étant le seul disponible en masse dans nos contrées. Le Brown a un ressort de 45 cN (identique au Red) et un bump tactile léger, le Clear a un ressort de 55 cN et un bump tactile plus prononcé.
 
-![Cherry MX Brown](https://reho.st/gif/7d554e0f3c1be56e26178235816b05513bf96509.gif) ![Cherry MX Clear](https://reho.st/gif/2129d692bd8a61d6597299a76ac4e449f937cd23.gif)
+![Cherry MX Brown](/images/switch-mx-brown.gif) ![Cherry MX Clear](/images/switch-mx-clear.gif)
 
 *Switchs tactiles.*
 
@@ -36,7 +36,7 @@ Cherry produit principalement deux switchs de type tactile (trois si l'on compte
 
 Le switch clicky de chez Cherry le plus courant est le MX Blue. Le MX Green en est une version plus dure et plus rare. Le Blue a un ressort de 55 cN, le Green un ressort de 80 cN, ce qui en fait l'un des switchs les plus durs du fabricant et lui confère une sensation de frappe se rapprochant du Buckling Spring, malgré le fait que son slider soit identique au Blue.
 
-![Cherry MX Blue](https://reho.st/gif/caf462de5cf45867a438973455053c72dda3310d.gif)
+![Cherry MX Blue](/images/switch-mx-blue.gif)
 
 *Switch à clic.*
 
@@ -54,7 +54,7 @@ Certains fabricants de claviers ont l'honnêteté de faire apparaître le nom du
 
 Par ailleurs, certaines communautés ou vendeurs font produire des switchs selon des spécifications particulières (on peut citer les séries Halo/Hako d'Input:Club) ce qui augmente considérablement la profondeur de l'offre.
 
-Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : https://input.club/the-comparative-guide-to-mechanical-switches/
+Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : https://input.club/the-comparative-guide-to-mechanical-switches
 
 &nbsp;
 
@@ -64,7 +64,7 @@ Introduit sur le Model F en 1982, le switch à *buckling spring* (ressort compre
 
 Le switch à buckling spring utilise un ressort compressé qui, lorsque la touche est suffisamment enfoncée, ferme un contact placé au-dessus d'une membrane (sur le Model M et dérivés) et vient heurter l'intérieur de l'enveloppe du switch, ce qui produit son clic caractéristique :
 
-![Switch buckling spring d'IBM](http://reho.st/gif/92371aefe6c28f89aa5a7bcf8a51cf0273f5e600.gif)
+![Switch buckling spring d'IBM](/images/switch-buckling-spring.gif)
 
 
 Il s'agit donc d'un switch tactile à clic dont la sensation de frappe est unique, ce qui fait qu'il est encore très apprécié par ceux qui apprécient une frappe sonore ainsi qu'un switch plutôt dur (autour de 90 cN).
@@ -77,7 +77,7 @@ Pour plus de détails, vous pouvez consulter [l'article dédié](http://deskthor
 
 Les switchs Topre sont de type électro-capacitifs à dôme caoutchouc : au-dessus des traces de cuivre du pcb sont placés des ressorts recouverts de dômes caoutchouc enfoncés par les touches ; c'est la variation de la capacité électrique du circuit induite par la compression du ressort métallique qui active la frappe. Il s'agit donc de switchs sans contact. Le ressort est très souple et ne sert qu'à faire varier la capacité du circuit, l'essentiel de la résistance est fournie par le dôme en caoutchouc qui procure une frappe tactile, le point de résistance (bump) se trouvant au début de la frappe, plus haut donc que sur les MX tactiles. Une fois ce point dépassé le switch donne l'impression de s'enfoncer tout seul, ce qui procure une frappe sans fatigue, contrairement aux dômes caoutchouc classiques. La frappe produit un "thock" sonore souvent apprécié, mais le switch Topre existe aussi en version silencieuse (amortie). La dureté de ces switchs peut varier de 35 cN à 55 cN.
 
-![Switch Topre](http://reho.st/gif/1ca9d071692c90f63a3ecb0f4a8cf339d20b9fa9.gif)
+![Switch Topre](/images/switch-topre.gif)
 
 *Source [Topre](http://www.topre.co.jp/en/products/elec/keyboards/features.html).*
 
