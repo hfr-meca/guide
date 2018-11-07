@@ -2,6 +2,7 @@
 
 Revenus à la mode ces dernières années, notamment à l'aide d'un discours marketing adressé aux joueurs, les claviers mécaniques sont loin d'être une nouveauté : si le [buckling spring d'IBM](http://deskthority.net/wiki/IBM_buckling_spring) fait figure d'ancêtre (Model F en 1981, Model M en 1984), Cherry produit les très populaires [switchs MX](http://deskthority.net/wiki/Cherry_MX) depuis 1983. En dépit de leurs qualités, le prix de ces claviers a conduit à leur remplacement par les claviers à membranes et dômes caoutchouc bien moins chers — une régression sur bien des plans, comme si l'on remplaçait aujourd'hui nos souris optiques par leurs ancêtres à boule. 
 
+&nbsp;
 
 ### • Pourquoi un clavier mécanique ?
 
@@ -9,11 +10,13 @@ Le principal défaut d'un clavier à dômes caoutchouc tient à son fonctionneme
 
 Ces défauts sont partiellement atténués par les interrupteurs à ciseaux, que l'on trouve sur certains claviers à dômes dits haut de gamme : le mécanisme de ciseaux et des dômes moins durs peuvent rendre la frappe plus souple et moins bruyante, mais il est toujours nécessaire d'appuyer à fond pour que la frappe soit prise en compte ; ceci ajouté à la faible course de la touche (environ 2 mm) participe à rendre la frappe fatigante à la longue.
 
+&nbsp;
 
 ### • Particularités et avantages du mécanique
 
 Les claviers mécaniques ont un fonctionnement différent : en lieu et place d'un dôme en caoutchouc qui s’affaisse d'un coup, on trouve sous chaque touche un **interrupteur (switch)** à la course **progressive**. Si la course de la touche est similaire (en général autour de 4mm avec quelques variations suivant le type de switch), **l'actuation (le point où la frappe est prise en compte)** se produit environ à mi-course ; et comme la résistance de la touche est assurée par un ressort souple, il est tout à fait possible de ne l'enfoncer qu'à moitié, ce qui rend la frappe bien plus légère (et potentiellement silencieuse, lorsque le switch n'émet pas de "clic" mécanique).
 
+&nbsp;
 
 ### • Le bruit, une critique infondée ?
 
