@@ -50,20 +50,20 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * Qualité de fabrication & fiabilité
  
 
-#### <a href="06.1-anatomie-touches.html">6. Anatomie d'un clavier</a>
-* Les touches
-  * matériaux
-  * légendes
-  * profil
-  * monture
-  * remplacer ses touches
-  
-* <a href="06.2-anatomie-elec.html">Design électrique</a>
-  * ghosting et frappes fantômes
-  * anti-ghosting : blocking et autres solutions
-  * x-Key rollover et appuis simultanés
-  * USB et PS/2
-  * bouncing et chattering
+#### <a href="06.1-anatomie-touches.html">6.1. Anatomie d'un clavier : les touches</a>
+* matériaux
+* légendes
+* profil
+* monture
+* remplacer ses touches
+
+
+#### <a href="06.2-anatomie-elec.html">6.2. Anatomie : design électrique</a>
+* ghosting et frappes fantômes
+* anti-ghosting : blocking et autres solutions
+* x-Key rollover et appuis simultanés
+* USB et PS/2
+* bouncing et chattering
  
 
 #### <a href="07-logiciels">7. Logiciels utiles</a>
@@ -72,5 +72,8 @@ Bienvenue dans le topic dédié aux claviers mécaniques. Ce premier post vise e
 * SharpKeys
 * AutoHotkey
  
-
+ 
 #### <a href="08-liens">8. Liens</a>
+* Communautés et sites d'information
+* Apprentissage de la dactylo
+* Divers
