@@ -1,4 +1,4 @@
-# 5. Choisir un clavier
+# Choisir un clavier
 
 &nbsp;
 
