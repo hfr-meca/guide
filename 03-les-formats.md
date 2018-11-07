@@ -10,7 +10,7 @@ On trouve des claviers de toutes les tailles (et maintenant [de toutes les forme
 
 • Le **TKL** ou TenKeyLess : le même, sans pavé numérique. Il a l'avantage de prendre moins de place sur le bureau et de permettre de moins écarter les bras lors d'un usage avec la souris, notamment lorsqu'on joue, ce qui autorise une posture plus naturelle et moins de fatigue au niveau des épaules.
 
-![](https://i.imgur.com/MYkYlvP.png)
+![](images/layout-tkl.png)
 
 &nbsp;
 
@@ -18,13 +18,15 @@ On trouve des claviers de toutes les tailles (et maintenant [de toutes les forme
 
 \- Le **60%** ne comprend que le bloc principal d'un clavier (sans les touches F- ni le bloc directionnel), toutes les touches supprimées se trouvant sur un deuxième *layer*, c'est à dire la plupart du temps accessibles via une combinaison avec Fn. 
 
-![](https://reho.st/self/e1ead65fe857d32701d63f23145b61ffa2477b6e.png)
+![](images/layout-60.png)
 
 \- Les **75%** sont des 60% avec touches F- et des touches fléchées accolées au bloc principal.
 
-![](https://i.imgur.com/Alk6zFv.png)
+![](images/layout-75.png)
 
-Il n'y a pas de standard établi concernant ces formats, on trouve donc couramment des variations en fonction des fabricants, par exemple le 65% de plus en plus populaire (aussi large que le 75% mais pas plus haut que le 60%).
+Il n'y a pas de standard établi concernant ces formats, on trouve donc couramment des variations en fonction des fabricants, par exemple le 65% de plus en plus populaire (aussi large que le 75% mais pas plus haut que le 60%) :
+
+![](images/layout-65.png)
 
 &nbsp;
 
@@ -32,11 +34,11 @@ Il n'y a pas de standard établi concernant ces formats, on trouve donc couramme
 
 L'Ergodox:
 
-![](https://i.imgur.com/VcMxVty.png)
+![](images/layout-ergodox.png)
 
 Le format 40% ortholinéaire :
 
-![](https://i.imgur.com/5LczRHR.png)
+![](images/layout-40-ortho.png)
 
 A noter que pour les claviers mécaniques, le format choisi ne change rien à la taille des touches ni à leur espacement : si vous prenez un clavier 60% avec switchs MX et le comparez à un full size, vous remarquerez que ses touches ne seront pas plus petites ni plus serrées : il y en a juste moins, et souvent agencées différemment.
 
