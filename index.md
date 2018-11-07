@@ -6,6 +6,7 @@ Bienvenue dans cette tentative de mutualiser la gestion de la FP du topic clavie
 
 ---
 
+{% include test.md %}
 
 ---
 
