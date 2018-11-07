@@ -14,7 +14,7 @@ Chez Cherry, les switchs linéaires sont le MX Red et le MX Black ; le Red offre
 
 Leur fonctionnement est représenté ainsi :
 
-![Cherry MX Red](https://reho.st/gif/78509f92dba513a35515b0aad9d2f12676198c51.gif) ![Cherry MX Black](https://reho.st/gif/005cbd383c2fac8aaf5282c4c0cca7688284b0fe.gif)
+![Cherry MX Red](/images/switch-mx-red.gif) ![Cherry MX Black](https://reho.st/gif/005cbd383c2fac8aaf5282c4c0cca7688284b0fe.gif)
 
 *Switchs linéaires. Animations par Lethal Squirrel sur [geekhack.org](https://geekhack.org/index.php?topic=62946.0)*
 
