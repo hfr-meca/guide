@@ -26,8 +26,14 @@ html{
 /* Create two equal columns that floats next to each other */
 .column {
     float: left;
-    width: 35%;
-    padding: 10px;
+}
+
+.left {
+  width: 30%;
+}
+
+.right {
+  width: 70%;
 }
 
 /* Clear floats after the columns */
