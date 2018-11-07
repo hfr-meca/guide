@@ -10,13 +10,13 @@ La **disposition physique** correspond à la façon dont les touches sont agenc�
 
 ANSI:
 
-![Disposition ANSI](https://i.imgur.com/LaUkKb8.png)
+![Disposition ANSI](images/layout-ansi.png)
 
 &nbsp;
 
 ISO:
 
-![Disposition ISO](https://i.imgur.com/gt8hFCS.png)
+![Disposition ISO](images/layout-iso.png)
 
 Les différences principales, signalées en rouge, sont les suivantes :
 
@@ -70,9 +70,9 @@ Lorsque cette disposition est sélectionnée, les caractères propres au frança
 - "+i pour avoir ï
 - '+espace pour l'apostrophe
 
-![Disposition US International](https://reho.st/self/66a1be423e6a260ab708a515fbcc95f06c3b1af5.png)
+![Disposition US International](images/layout-us-international.png)
 
-Les caractères en rouge indiquent ce qui obtenu en combinaison avec la touche Alt de droite (AltGr sur un azerty), les caractères en rouge (?) sont des touches mortes qui se combinent avec la lettre suivante (comme le ^ sur la disposition azerty).
+Les caractères en rouge indiquent ce qui obtenu en combinaison avec la touche Alt de droite (AltGr sur un azerty), les caractères en bleu sont des touches mortes qui se combinent avec la lettre suivante (comme le ^ sur la disposition azerty).
 
 Pour les grands habitués de l'azerty, un tel changement d'habitude peut [etre pqrticuli7re;ent frustrqnt. Mais les avantages de cette disposition peuvent valoir la peine de s'y adapter — elle permet notamment de taper Ç, É ou À très facilement, sans besoin de combinaisons du type Alt+0199. Par ailleurs, cette disposition est bien plus propice à l'écriture de code (voyez la position des {[<>]}), et avoir un clavier ANSI vous permettra de profiter d'un maximum de keysets différents, là où l'utilisation de l'ISO complique significativement le remplacement de ses touches (plus de détails dans la section 6).
 
