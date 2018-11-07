@@ -1,10 +1,12 @@
-![Les switchs](https://i.imgur.com/HYCTawG.png)
+# Les switchs
 
 &nbsp;
 
 ### • Tactile ou linéaire, silencieux ou clicky
 
 C'est LA question obscure à laquelle est confronté tout premier acheteur de clavier mécanique, notamment ceux pourvu de switchs Cherry MX : quelle couleur de switch choisir ? On distingue principalement deux types de switchs , **linéaires** et **tactiles** ; et parmi ces derniers, certains sont silencieux, certains produisent un clic audible lors de l'appui — tous les linéaires étant silencieux.
+
+&nbsp;
 
 • Les **switchs linéaires** sont nommés ainsi en raison de la sensation produite : lorsqu'on appuie sur la touche, la résistance à la frappe n'est affectée que par la force du ressort qui augmente graduellement, autrement dit de façon linéaire (plus le ressort est compressé, plus il est dur). Cette augmentation est néanmoins subtile, à tel point que les fabricants de switchs ne fournissent qu'un chiffre (et non pas une plage) pour quantifier cette résistance ; on ne risque donc pas de trouver qu'un switch linéaire devient "trop dur en bout de course" : il sera soit trop dur tout court, soit trop souple, soit offrira une résistance convenable.
 
@@ -18,6 +20,7 @@ Leur fonctionnement est représenté ainsi :
 
 On notera que la partie colorée qui glisse contre le contact en métal (le *slider*, au sommet duquel est attachée la touche non représentée sur ces animations) est lisse ; c'est la forme de ce slider associée à la résistance du ressort qui détermine le feeling du switch.
 
+&nbsp;
 
 • Les **switchs tactiles**, sont quasiment similaires, à l'exception de la forme du slider : une bosse y est présente, ce qui produit lors de la frappe une augmentation de la résistance à mi-course. C'est ce qu'on appelle le "retour tactile" ("feedback", ou encore "bump"). Ce retour tactile **ne produit pas de bruit supplémentaire** par rapport à un switch linéaire : il permet de sentir au toucher le milieu de la course, c'est à dire le point où la frappe a été prise en compte. C'est la raison pour laquelle il est plus facile d'avoir une frappe légère avec un switch tactile (le switch nous fait sentir le point au-delà duquel il n'est plus nécessaire d'appuyer), et que l'on recommande plus généralement (par facilité) ce type de switch à ceux qui écrivent beaucoup.
 
@@ -27,6 +30,7 @@ Cherry produit principalement deux switchs de type tactile (trois si l'on compte
 
 *Switchs tactiles.*
 
+&nbsp;
 
 • Les **switchs clicky** sont des switchs tactiles dont le slider est en deux parties, et dont la partie mobile va au moment de l'actuation glisser vers le bas et heurter le fond du switch, produisant ainsi ce "clic" caractéristique. Le retour tactile est donc doublé d'un retour sonore.
 
