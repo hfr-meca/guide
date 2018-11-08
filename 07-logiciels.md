@@ -26,7 +26,7 @@ On peut citer notamment :
 
   ![KeyTweak](images/logiciels-ahk.png)
   
-  Le programme doit tourner en tâche de fond pour que les modifications soient prises en compte, ce qui ne doit pas poser problème étant donné sa légèreté. Il peut être désactivé très aisément si nécessaire, et ses modifications peuvent être actives en permanence ou seulement dans certains programmes. Un tutoriel simplifié est disponible **[ici](http://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_492.htm#t810896)**.
+  Le programme doit tourner en tâche de fond pour que les modifications soient prises en compte, ce qui ne doit pas poser problème étant donné sa légèreté. Il peut être désactivé très aisément si nécessaire, et ses modifications peuvent être prises en compte de façon globale ou seulement dans certains programmes. Un tutoriel simplifié est disponible **[ici](http://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_492.htm#t810896)**.
 
 &nbsp;
 
