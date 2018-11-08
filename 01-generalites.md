@@ -1,10 +1,10 @@
-# Généralités
+## Généralités
 
 Revenus à la mode ces dernières années, notamment à l'aide d'un discours marketing adressé aux joueurs, les claviers mécaniques sont loin d'être une nouveauté : si le [buckling spring d'IBM](http://deskthority.net/wiki/IBM_buckling_spring) fait figure d'ancêtre (Model F en 1981, Model M en 1984), Cherry produit les très populaires [switchs MX](http://deskthority.net/wiki/Cherry_MX) depuis 1983. En dépit de leurs qualités, le prix de ces claviers a conduit à leur remplacement par les claviers à membranes et dômes caoutchouc bien moins chers — une régression sur bien des plans, comme si l'on remplaçait aujourd'hui nos souris optiques par leurs ancêtres à boule. 
 
 &nbsp;
 
-### • Pourquoi un clavier mécanique ?
+#### • Pourquoi un clavier mécanique ?
 
 Le principal défaut d'un clavier à dômes caoutchouc tient à son fonctionnement : comme la touche est maintenue en position haute par le dôme et que le contact n'est établi (et donc la frappe prise en compte) que lorsque celui-ci s'écrase sur la membrane, il faut appuyer relativement fort pour que la touche descende : la frappe est donc fatigante à la longue car résistante et brusque, en plus d'être souvent bruyante — comme le dôme s'écrase, la touche produit un "clac" plus ou moins sonore en arrivant en butée, tandis que la frappe est amortie de façon pâteuse.
 
@@ -12,7 +12,7 @@ Ces défauts sont partiellement atténués par les interrupteurs à ciseaux, que
 
 &nbsp;
 
-### • Particularités et avantages du mécanique
+#### • Particularités et avantages du mécanique
 
 Les claviers mécaniques ont un fonctionnement différent : en lieu et place d'un dôme en caoutchouc qui s’affaisse d'un coup, on trouve sous chaque touche un **interrupteur (switch)** à la course **progressive**. Si la course de la touche est similaire (en général autour de 4mm avec quelques variations suivant le type de switch), **l'actuation (le point où la frappe est prise en compte)** se produit environ à mi-course ; et comme la résistance de la touche est assurée par un ressort souple, il est tout à fait possible de ne l'enfoncer qu'à moitié, ce qui rend la frappe bien plus légère (et potentiellement silencieuse, lorsque le switch n'émet pas de "clic" mécanique).
 
