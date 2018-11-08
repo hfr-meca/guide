@@ -42,11 +42,5 @@ Pour plus d'informations sur les o-rings, voir les messages de Lpwl [ici](http:/
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a> | suite : <a href="02-les-switchs.html">Les switchs</a></sub>
-</p>
-
-&nbsp;
-
-<p align="center">
-<sub><a href="#top">Back to top</a> | suite : <a href="02-les-switchs.html">Les switchs</a></sub>
+<sub><a href="#top">haut de page</a> | suite : <a href="02-les-switchs.html">Les switchs</a></sub>
 </p>
