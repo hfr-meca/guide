@@ -2,21 +2,21 @@
 
 On trouve des claviers de toutes les tailles (et maintenant [de toutes les formes](http://ergodox.io/)), avec un nombre variable de touches. Concernant les tailles, on peut distinguer trois familles :
 
-#### Le full size
+#### • Le full size
 C'est le clavier standard avec pavé numérique et toutes ses touches (105 en Europe, 104 aux US).
 
 ![](images/layout-full-size.png)
 
 &nbsp;
 
-#### Le TKL ou TenKeyLess
+#### • Le TKL ou TenKeyLess
 Le même, sans pavé numérique. Il a l'avantage de prendre moins de place sur le bureau et de permettre de moins écarter les bras lors d'un usage avec la souris, notamment lorsqu'on joue, ce qui autorise une posture plus naturelle et moins de fatigue au niveau des épaules.
 
 ![](images/layout-tkl.png)
 
 &nbsp;
 
-#### Les formats compacts
+#### • Les formats compacts
 On appelle généralement clavier compact tout ce qui est moins grand qu'un TKL. 
 
 \- Le **60%** ne comprend que le bloc principal d'un clavier (sans les touches F- ni le bloc directionnel), toutes les touches supprimées se trouvant sur un deuxième *layer*, c'est à dire la plupart du temps accessibles via une combinaison avec Fn. 
@@ -33,7 +33,7 @@ Il n'y a pas de standard établi concernant ces formats, on trouve donc couramme
 
 &nbsp;
 
-#### Les formats ergonomiques 
+#### • Les formats ergonomiques 
 Très variés, ils abandonnent souvent le décalage latéral (*stagger*) des rangées de touches hérité des claviers de machines à écrire et visent souvent à favoriser une position plus naturelle des mains.
 
 L'Ergodox:
