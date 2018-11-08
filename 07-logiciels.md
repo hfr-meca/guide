@@ -14,7 +14,7 @@ On peut citer notamment :
 
 - **[KeyTweak](http://www.bleepingcomputer.com/download/keytweak/)** est un logiciel qui permet de réassigner des touches, ou plus précisément qui sert d'interface à la modification du registre de Windows pour modifier la façon dont il interprète les scancodes. Vous pouvez indifféremment réassigner des touches ou en désactiver, mais vous ne pouvez pas assigner une combinaison de touches à une seule touche. Par ailleurs, les modifications affectent le pc entier, autrement dit tous les utilisateurs quelle que soit la langue du clavier qu'ils ont choisie dans windows. Il ne permet pas de réassigner la touche Fn des claviers et nécessite un redémarrage avant prise en compte des modifications. En dépit de ces limitations, il est très utile pour qui veut effectuer des modifications simples et ne plus y revenir.
 
-  ![KeyTweak](https://reho.st/self/217facec88b6ce6bdecb4bfad77f69a6087e4220.png)
+  ![KeyTweak](images/logiciels-keytweak.png)
 
 &nbsp;
 
