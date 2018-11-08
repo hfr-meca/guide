@@ -1,8 +1,8 @@
-# Les switchs
+## Les switchs
 
 &nbsp;
 
-### • Tactile ou linéaire, silencieux ou clicky
+#### • Tactile ou linéaire, silencieux ou clicky
 
 C'est LA question obscure à laquelle est confronté tout premier acheteur de clavier mécanique, notamment ceux pourvu de switchs Cherry MX : quelle couleur de switch choisir ? On distingue principalement deux types de switchs , **linéaires** et **tactiles** ; et parmi ces derniers, certains sont silencieux, certains produisent un clic audible lors de l'appui — tous les linéaires étant silencieux.
 
@@ -44,7 +44,7 @@ Il faut noter que ces switchs clicky sont affectés par un phénomène d'[hysté
 
 &nbsp;
 
-### • Les copies de switchs Cherry
+#### • Les copies de switchs Cherry
 
 Comme tout produit ayant du succès, les switchs Cherry MX ont été copiés et sont notamment reproduits par le chinois Kailhua — ils ne sont pas les seuls (on trouve aussi Greetech, qui équipe les derniers claviers Das, Gateron ou encore Gaote) mais ce sont les copies les plus répandues. Si, en absence d'un accord de licence et malgré l'expiration du brevet de Cherry, ces fabricants n'ont pas la possibilité d'utiliser le nom Cherry MX dans leur littérature, ils tirent néanmoins parti de la compatibilité de leurs copies avec les switchs d'origine pour profiter de l'écosystème Cherry (design de PCB, touches, et surtout utilisateurs...) et proposer aux fabricants de clavier une alternative aux MX. 
 
@@ -58,7 +58,7 @@ Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, 
 
 &nbsp;
 
-### • Le *Buckling Spring* d'IBM
+#### • Le *Buckling Spring* d'IBM
 
 Introduit sur le Model F en 1982, le switch à *buckling spring* (ressort compressé) d'IBM fonctionnait à l'origine avec des contacts capacitifs, avant d'être rapidement décliné sur le Model M qui remplace ceux-ci par une membrane lui permettant d'être plus compact et moins cher. Le Model M sera produit jusqu'en 1990. De divisions en rachats (la division périphériques d'IBM devient Lexmark en 1991, qui cesse de produire le clavier en 1996), la maintenance des vieux claviers IBM et Lexmark est aujourd'hui assurée par Unicomp, fondée par Neil Muyskens qui a racheté les brevets et l'appareil de production à Lexmark, et qui vend aujourd'hui des claviers à buckling spring sous cette enseigne.
 
@@ -73,7 +73,7 @@ Pour plus de détails, vous pouvez consulter [l'article dédié](http://deskthor
 
 &nbsp;
 
-### • Le switch Topre
+#### • Le switch Topre
 
 Les switchs Topre sont de type électro-capacitifs à dôme caoutchouc : au-dessus des traces de cuivre du pcb sont placés des ressorts recouverts de dômes caoutchouc enfoncés par les touches ; c'est la variation de la capacité électrique du circuit induite par la compression du ressort métallique qui active la frappe. Il s'agit donc de switchs sans contact. Le ressort est très souple et ne sert qu'à faire varier la capacité du circuit, l'essentiel de la résistance est fournie par le dôme en caoutchouc qui procure une frappe tactile, le point de résistance (bump) se trouvant au début de la frappe, plus haut donc que sur les MX tactiles. Une fois ce point dépassé le switch donne l'impression de s'enfoncer tout seul, ce qui procure une frappe sans fatigue, contrairement aux dômes caoutchouc classiques. La frappe produit un "thock" sonore souvent apprécié, mais le switch Topre existe aussi en version silencieuse (amortie). La dureté de ces switchs peut varier de 35 cN à 55 cN.
 
@@ -85,7 +85,7 @@ Plus de détails sur le [wiki de deskthority](http://deskthority.net/wiki/Topre_
 
 &nbsp;
 
-### • Les switchs Alps & Matias
+#### • Les switchs Alps & Matias
 
 La société Alps a produit de nombreux types de switchs pour claviers depuis 1983, notamment les [*complicated Alps*](http://deskthority.net/wiki/Alps_SKCL/SKCM_series) (séries SKCL, linéaires, et SKCM, tactiles & clicky) puis les [*simplified Alps*](http://deskthority.net/wiki/Alps_SKBL/SKBM_series) (SBKL linéaires et SKBM tactiles & clicky) à partir de 1996. A l'instar des Cherry MX, ils conservent la même taille et la même fixation pour les touches malgré un nombre important de variantes. Ils ont été utilisés notamment sur les claviers Apple, Dell ou Acer. 
 
@@ -93,7 +93,7 @@ Suite à l'arrêt de la production de ces switchs en 2012, le fabricant de clavi
 
 &nbsp;
 
-### • Les switchs Omron
+#### • Les switchs Omron
 
 Plus connu pour ses microswitchs, Omron fabrique également des switchs pour claviers depuis la fin des années 80, notamment des copies d'Alps ([série B3G-S](http://deskthority.net/wiki/Omron_B3G-S_series)). Une collaboration avec Logitech a été l'occasion de concevoir un nouveau switch, le [Romer-G](http://deskthority.net/wiki/Romer-G) initialement proposé uniquement dans sa variante tactile, avec un point d'actuation à 1.5 mm (0.5 mm plus haut que les Cherry MX, sur lesquels il se situe à 2 mm), ce qui l'apparente à un MX Brown avec un bump tactile un peu plus haut. Sa conception permet de laisser passer la lumière des LEDs de rétroéclairage au centre du keycap (et non à sa périphérie comme sur les Cherry MX). 
 
