@@ -39,6 +39,11 @@ img {
     font-size: 1.35em;
 }
 
+/* slight contrast in left column */
+.left {
+    background-color: #00000008;
+}
+
  /* remove lines under banner and over footer */
 #main_content_wrap {
     border-top: 0px solid #111;
