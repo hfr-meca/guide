@@ -25,5 +25,5 @@ A noter :
 &nbsp;
 
 <p align="center">
-<sub>suite : <a href="01-generalites.html">Généralités    </a></sub>
+<sub>suite : <a href="01-generalites.html">Généralités</a></sub>
 </p>
