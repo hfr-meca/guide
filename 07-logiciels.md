@@ -27,5 +27,5 @@ Si vous décidez d'ajouter ou de déplacer des accents, veillez à bien les conf
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a> | suite : <a href="08-liens.html">Liens utiles</a></sub>
+<sub><a href="#top">haut de page</a> | suite : <a href="08-liens.html">Liens utiles</a></sub>
 </p>
