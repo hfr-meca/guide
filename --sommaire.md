@@ -1,10 +1,10 @@
-#### <a href="01-generalites.html">1. Généralités</a>
+### <a href="01-generalites.html">1. Généralités</a>
 * Pourquoi un clavier mécanique ?
 * Particularités et avantages du mécanique
 * Le bruit, une critique infondée ?
 
 
-#### <a href="02-les-switchs.html">2. Les switchs</a>
+### <a href="02-les-switchs.html">2. Les switchs</a>
 * Cherry MX : Tactile ou linéaire, silencieux ou clicky
 * Les copies de Cherry MX
 * Le Buckling Spring d'IBM
@@ -38,19 +38,19 @@
 
 
 ### <a href="06.1-anatomie-touches.html">6.1. Anatomie d'un clavier : les touches</a>
-* matériaux
-* légendes
-* profil
-* monture
-* remplacer ses touches
+* Matériaux
+* Légendes
+* Profil
+* Monture
+* Remplacer ses touches
 
 
 ### <a href="06.2-anatomie-elec.html">6.2. Anatomie : design électrique</a>
-* ghosting et frappes fantômes
-* anti-ghosting : blocking et autres solutions
-* x-Key rollover et appuis simultanés
+* Ghosting et frappes fantômes
+* Anti-ghosting : blocking et autres solutions
+* X-Key rollover et appuis simultanés
 * USB et PS/2
-* bouncing et chattering
+* Bouncing et chattering
 
 
 ### <a href="07-logiciels">7. Logiciels utiles</a>
