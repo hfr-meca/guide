@@ -25,5 +25,5 @@
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a></sub>
+<sub><a href="#top">haut de page</a></sub>
 </p>
