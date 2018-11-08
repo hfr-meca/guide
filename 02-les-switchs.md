@@ -54,7 +54,7 @@ Certains fabricants de claviers ont l'honnêteté de faire apparaître le nom du
 
 Par ailleurs, certaines communautés ou vendeurs font produire des switchs selon des spécifications particulières (on peut citer les séries Halo/Hako d'Input:Club) ce qui augmente considérablement la profondeur de l'offre.
 
-Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : https://input.club/the-comparative-guide-to-mechanical-switches
+Pour un aperçu plus complet (et de riches descriptions techniques) en anglais, voir le guide détaillé d'Input:Club : https://input.club/the-comparative-guide-to-mechanical-switches/
 
 &nbsp;
 
