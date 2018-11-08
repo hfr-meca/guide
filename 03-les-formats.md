@@ -47,5 +47,5 @@ Le format détermine donc principalement le nombre de touches que vous aurez à 
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a> | suite : <a href="04-layout.html">Le <i>layout</i> : disposition des touches et des caractères</a></sub>
+<sub><a href="#top">haut de page</a> | suite : <a href="04-layout.html">Le <i>layout</i> : disposition des touches et des caractères</a></sub>
 </p>
