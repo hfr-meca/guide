@@ -6,5 +6,5 @@ Rien d'officiel pour le moment, juste quelques tests pour voir s'il est possible
 
 Lien : **https://hfr-meca.github.io/guide/**
 
-L'intro et le sommaire sont sur index.md, les différentes sections sur une page numérotée reprenant l'organisation du topic.
+L'intro est sur index.md, le sommaire sur sommaire.html (pour faciliter son intégration à la colonne de gauche), les différentes sections sur une page numérotée reprenant l'organisation du topic.
 
