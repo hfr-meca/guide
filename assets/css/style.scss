@@ -65,6 +65,13 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Verdana, Arial, sans-serif, Helvetica;
 }
 
+blockquote {
+    color: #535353;
+    margin-bottom: 0px;
+    padding: 2px 10px 2px 20px;
+    border-left: none;
+    background-color: #00000010;
+}
 
  /* dual columns */
 * {
