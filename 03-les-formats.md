@@ -23,9 +23,13 @@ On appelle généralement clavier compact tout ce qui est moins grand qu'un TKL.
 
 ![Clavier 60%](images/layout-60.png)
 
+&nbsp;
+
 \- Les **75%** sont des 60% avec touches F- et des touches fléchées accolées au bloc principal.
 
 ![Clavier 75%](images/layout-75.png)
+
+&nbsp;
 
 Il n'y a pas de standard établi concernant ces formats, on trouve donc couramment des variations en fonction des fabricants, par exemple le 65% de plus en plus populaire (aussi large que le 75% mais pas plus haut que le 60%) :
 
@@ -40,11 +44,15 @@ L'Ergodox:
 
 ![Clavier ErgoDox](images/layout-ergodox.png)
 
+&nbsp;
+
 Le format 40% ortholinéaire :
 
 ![Clavier 40% ortholinéaire](images/layout-40-ortho.png)
 
-A noter que pour les claviers mécaniques, le format choisi ne change rien à la taille des touches ni à leur espacement : si vous prenez un clavier 60% avec switchs MX et le comparez à un full size, vous remarquerez que ses touches ne seront pas plus petites ni plus serrées : il y en a juste moins, et souvent agencées différemment.
+&nbsp;
+
+Notez que pour les claviers mécaniques, le format choisi ne change rien à la taille des touches ni à leur espacement : si vous prenez un clavier 60% avec switchs MX et le comparez à un full size, vous remarquerez que ses touches ne seront pas plus petites ni plus serrées : il y en a juste moins, et souvent agencées différemment.
 
 Le format détermine donc principalement le nombre de touches que vous aurez à votre disposition et la place que prendra votre clavier sur votre bureau. Pour savoir de quelle façon les caractères sont agencés dessus, il faut s'intéresser à leur disposition, ou *layout*.
 
