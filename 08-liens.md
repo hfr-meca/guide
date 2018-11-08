@@ -1,6 +1,8 @@
-# Liens utiles
+## Liens utiles
 
 &nbsp;
+
+#### Forums et communautés
 
 - [geekhack.org](https://geekhack.org/), forum nord-américain, où s'organisent fréquemment diverses commandes groupées (anglais)
 - [Deskthority](https://deskthority.net/), forum plus centré sur l'Europe, et son [wiki](https://deskthority.net/wiki/Main_Page) (anglais, sous-section française)
@@ -8,13 +10,19 @@
 
 &nbsp;
 
+#### Blogs et sites d'information spécialisés
+
 - [KeyChatter](https://www.keychatter.com/), site d'actualités et d'information sur les claviers mécaniques (anglais)
 
 &nbsp;
 
+#### Outils
+
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/), un éditeur de layout visuel en ligne
 
 &nbsp;
+
+#### Aide à l'apprentissage
 
 - [typing.com](http://www.typing.com/), pour apprendre à taper correctement et profiter au mieux d'un clavier de qualité.
 - [Touch Typing Guru](http://touchtyping.guru/) propose des exercices différents, un bon complément pour travailler différemment sa mémoire musculaire.
