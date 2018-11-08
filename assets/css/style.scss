@@ -20,6 +20,19 @@ html {
     height: 196px;
 }  */
 
+#header_wrap .inner {
+    padding: 0px;
+}
+
+/* center & clean top-left logo */
+.logo {
+    text-align: center;
+}
+
+img {
+    border: none;
+    padding: 0px;
+}
 
  /* remove lines under banner and over footer */
 #main_content_wrap {
