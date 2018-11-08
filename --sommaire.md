@@ -1,10 +1,10 @@
-### <a href="01-generalites.html">1. Généralités</a>
+#### <a href="01-generalites.html">1. Généralités</a>
 * Pourquoi un clavier mécanique ?
 * Particularités et avantages du mécanique
 * Le bruit, une critique infondée ?
 
 
-### <a href="02-les-switchs.html">2. Les switchs</a>
+#### <a href="02-les-switchs.html">2. Les switchs</a>
 * Cherry MX : Tactile ou linéaire, silencieux ou clicky
 * Les copies de Cherry MX
 * Le Buckling Spring d'IBM
