@@ -4,7 +4,7 @@ Un certain nombre de logiciels peuvent être utiles, notamment pour réassigner 
 
 On peut citer notamment :
 
-- Le **[Microsoft Keyboard Layout Creator](http://windows.microsoft.com/fr-fr/windows-vista/create-your-own-keyboard-layout)** (MSKLC), vous permet de créer un layout entièrement personnalisé ou d'utiliser un layout existant (File > Load Existing Keyboard) et de l'adapter à vos besoins. Vous pouvez ensuite le compiler et créer un exécutable qui permettra de l'installer sur n'importe quel pc sous windows et de l'activer via les options de langues de panneau de configuration.
+- Le **[Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)** (MSKLC), vous permet de créer un layout entièrement personnalisé ou d'utiliser un layout existant (File > Load Existing Keyboard) et de l'adapter à vos besoins. Vous pouvez ensuite le compiler et créer un exécutable qui permettra de l'installer sur n'importe quel pc sous windows et de l'activer via les options de langues de panneau de configuration.
 
   ![Microsoft Keyboard Layout Creator](https://reho.st/self/c4bc3eefb2039fb43752d1224cf2d7c4015c6d8a.png)
 
