@@ -5,7 +5,6 @@
 Bienvenue dans cette tentative de simplifier la gestion de la FP du topic claviers mécaniques d'hfr ![:o](https://forum-images.hardware.fr/icones/redface.gif)
 
 ---
----
 
 Bienvenue sur cette page dédiée aux claviers mécaniques, qui vise en premier lieu à éclairer les néophytes pour leur permettre de choisir en connaissance de cause un clavier qui leur convient ; comme il est un peu long, sentez-vous libre de sauter les sections qui ne vous intéressent pas, mais n'hésitez pas à revenir les lire plus tard, car elles contiennent de nombreuses informations qui font l'objet de questions de façon récurrente au fil du topic.
 
@@ -22,3 +21,9 @@ A noter :
 <!--
 {% include_relative sommaire.html %}
 -->
+
+&nbsp;
+
+<p align="center">
+<sub>suite : <a href="01-generalites.html">Les switchs</a></sub>
+</p>
