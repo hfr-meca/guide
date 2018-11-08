@@ -104,5 +104,5 @@ Le Romer-G dispose d'une monture propriétaire et ne permet donc pas d'accueilli
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a> | suite : <a href="03-les-formats.html">Les formats</a></sub>
+<sub><a href="#top">haut de page</a> | suite : <a href="03-les-formats.html">Les formats</a></sub>
 </p>
