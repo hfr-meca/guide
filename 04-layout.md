@@ -79,5 +79,5 @@ Pour les grands habitués de l'azerty, un tel changement d'habitude peut [etre p
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a> | suite : <a href="05-comment-choisir.html">Comment choisir un clavier</a></sub>
+<sub><a href="#top">haut de page</a> | suite : <a href="05-comment-choisir.html">Comment choisir un clavier</a></sub>
 </p>
