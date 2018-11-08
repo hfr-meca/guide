@@ -1,10 +1,10 @@
-<h4 id="-a-href-01-generalites-html-1-g-n-ralit-s-a-"><a href="01-generalites.html">1. Généralités</a></h4>
+<h3 id="-a-href-01-generalites-html-1-g-n-ralit-s-a-"><a href="01-generalites.html">1. Généralités</a></h4>
 <ul>
 <li>Pourquoi un clavier mécanique ?</li>
 <li>Particularités et avantages du mécanique</li>
 <li>Le bruit, une critique infondée ?</li>
 </ul>
-<h4 id="-a-href-02-les-switchs-html-2-les-switchs-a-"><a href="02-les-switchs.html">2. Les switchs</a></h4>
+<h3 id="-a-href-02-les-switchs-html-2-les-switchs-a-"><a href="02-les-switchs.html">2. Les switchs</a></h4>
 <ul>
 <li>Cherry MX : Tactile ou linéaire, silencieux ou clicky</li>
 <li>Les copies de Cherry MX</li>
