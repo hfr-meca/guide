@@ -91,5 +91,5 @@ Enfin, si vous désirez choisir un clavier à la qualité reconnue sans y passer
 &nbsp;
 
 <p align="center">
-<sub><a href="index.html">retour au sommaire</a> | suite : <a href="06.1-anatomie-touches.html">Anatomie d'un clavier</a></sub>
+<sub><a href="#top">haut de page</a> | suite : <a href="06.1-anatomie-touches.html">Anatomie d'un clavier</a></sub>
 </p>
