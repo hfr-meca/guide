@@ -22,7 +22,7 @@ On peut citer notamment :
 
 &nbsp;
 
-- **[AutoHotkey](http://ahkscript.org/download/)** est un programme à la fois très léger et très puissant qui vous permet de réassigner des touches, exécuter des scripts (du plus simple au plus complexe) ou encore programmer des macros. La configuration est réalisées via un script (fichier texte) modifiable à la volée.
+- **[AutoHotkey](http://ahkscript.org/download/)** est un programme à la fois très léger et très puissant qui vous permet de réassigner des touches, exécuter des scripts (du plus simple au plus complexe) ou encore programmer des macros. La configuration est réalisée via un fichier texte modifiable à la volée.
 
   ![KeyTweak](images/logiciels-ahk.png)
   
