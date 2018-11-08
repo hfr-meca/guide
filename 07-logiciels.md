@@ -8,7 +8,7 @@ On peut citer notamment :
 
   ![Microsoft Keyboard Layout Creator](https://reho.st/self/c4bc3eefb2039fb43752d1224cf2d7c4015c6d8a.png)
 
-Si vous décidez d'ajouter ou de déplacer des accents, veillez à bien les configurer comme [touches mortes](https://fr.wikipedia.org/wiki/Touche_morte) (*dead keys*).
+  Si vous décidez d'ajouter ou de déplacer des accents, veillez à bien les configurer comme [touches mortes](https://fr.wikipedia.org/wiki/Touche_morte) (*dead keys*).
 
 &nbsp;
 
