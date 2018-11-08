@@ -8,19 +8,16 @@
 - [Deskthority](https://deskthority.net/), forum plus centré sur l'Europe, et son [wiki](https://deskthority.net/wiki/Main_Page) (anglais, sous-section française)
 - [/r/MechanicalKeyboards](http://www.reddit.com/r/MechanicalKeyboards), subreddit dédié aux claviers mécaniques (anglais)
 
-&nbsp;
 
 #### Blogs et sites d'information spécialisés
 
 - [KeyChatter](https://www.keychatter.com/), site d'actualités et d'information sur les claviers mécaniques (anglais)
 
-&nbsp;
 
 #### Outils
 
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/), un éditeur de layout visuel en ligne
 
-&nbsp;
 
 #### Aide à l'apprentissage
 
