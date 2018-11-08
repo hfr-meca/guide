@@ -22,7 +22,11 @@ On peut citer notamment :
 
 &nbsp;
 
-- **[AutoHotkey](http://ahkscript.org/download/)** est un programme à la fois très léger et très puissant qui vous permet de réassigner des touches, exécuter des scripts (du plus simple au plus complexe) ou encore programmer des macros. La configuration est réalisées via un script (fichier texte) modifiable à la volée et le programme doit tourner en tâche de fond pour que les modifications soient prises en compte, ce qui ne doit pas poser problème étant donné sa légèreté. Il peut être désactivé très aisément si nécessaire, et ses modifications peuvent être actives en permanence ou seulement dans certains programmes. Un tutoriel simplifié est disponible **[ici](http://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_492.htm#t810896)**.
+- **[AutoHotkey](http://ahkscript.org/download/)** est un programme à la fois très léger et très puissant qui vous permet de réassigner des touches, exécuter des scripts (du plus simple au plus complexe) ou encore programmer des macros. La configuration est réalisées via un script (fichier texte) modifiable à la volée.
+
+  ![KeyTweak](images/logiciels-ahk.png)
+  
+  Le programme doit tourner en tâche de fond pour que les modifications soient prises en compte, ce qui ne doit pas poser problème étant donné sa légèreté. Il peut être désactivé très aisément si nécessaire, et ses modifications peuvent être actives en permanence ou seulement dans certains programmes. Un tutoriel simplifié est disponible **[ici](http://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_492.htm#t810896)**.
 
 &nbsp;
 
