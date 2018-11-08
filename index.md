@@ -12,7 +12,7 @@ Cette page est un miroir de la première page du [topic Claviers mécaniques](ht
 
 &nbsp;
 
-A noter :
+À noter :
 
 - Les informations sur le fonctionnement du topic sont toujours en tête du [premier post](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm).
 
