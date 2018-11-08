@@ -34,6 +34,11 @@ img {
     padding: 0px;
 }
 
+/* reduce h3 size in left column */
+.left h3 {
+    font-size: 1.35em;
+}
+
  /* remove lines under banner and over footer */
 #main_content_wrap {
     border-top: 0px solid #111;
