@@ -3,3 +3,116 @@
 
 @import "{{ site.theme }}";
  
+
+/* ========================================================== */
+/* ========================= CONTENT ======================== */
+
+/* justify text in right column */
+.right {
+    text-align: justify;
+}
+
+/* center & clean top-left logo */
+.logo {
+    text-align: center;
+}
+
+/* clean around images */
+img {
+    border: none;
+    padding: 0px;
+    max-width: 800px;
+    box-shadow: none;
+}
+
+
+/* ========================================================== */
+/* ========================= STYLE ========================== */
+
+
+/* flat light */
+body {
+    background: #f1f0f3;
+    font-family: Verdana, Arial, sans-serif, Helvetica;
+    font-size: 13px;
+}
+
+#main_content_wrap {
+    background: #fff;
+}
+
+#header_wrap .inner {
+    padding: 0px;
+    background: #f1f0f3;
+}
+
+#main_content {
+    padding-top: 20px;
+}
+
+/* slight contrast in left column */
+.left {
+    background-color: #00000008;
+}
+
+blockquote {
+    color: #535353;
+    margin-bottom: 0px;
+    padding: 2px 10px 2px 20px;
+    border-left: none;
+    background-color: #00000008;
+}
+
+
+/* ========================================================== */
+/* ========================= LAYOUT ========================= */
+
+/* enlarge content width */
+.inner {
+    max-width: 1280px;
+}
+
+/* center & limit content width */
+html {
+    max-width: 1280px;
+    margin: auto;
+}
+
+/* remove lines under banner and over footer */
+#main_content_wrap {
+    border-top: 0px solid #111;
+    border-bottom: 0px solid #111;
+}
+
+/* Create two columns */
+.column {
+    float: left;
+}
+
+.left {
+    width: 30%;
+    padding: 10px;
+}
+
+.right {
+    width: 70%;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 1024px) {
+    .column {
+        width: 100%;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
