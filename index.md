@@ -2,7 +2,7 @@
 
 &nbsp;
 
-[:o](https://forum-images.hardware.fr/icones/redface.gif)
+- [:o](https://forum-images.hardware.fr/icones/redface.gif)
 
 ---
 
