@@ -18,7 +18,7 @@ Les claviers mécaniques ont un fonctionnement différent : en lieu et place d'u
 
 &nbsp;
 
-#### • Le bruit, une critique infondée ?
+#### • Le bruit, source et solutions
 
 Une critique récurrente faite aux claviers mécaniques concerne leur bruit : un clavier mécanique serait foncièrement plus bruyant qu'un clavier à dômes. Il faut en fait distinguer deux sources de bruit dans le fonctionnement d'un clavier mécanique :
 
