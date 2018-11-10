@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Bienvenue dans cette tentative de simplifier la gestion de la FP du topic claviers mécaniques d'hfr ![:o](https://forum-images.hardware.fr/icones/redface.gif)
+[:o](https://forum-images.hardware.fr/icones/redface.gif)
 
 ---
 
@@ -13,8 +13,6 @@ Bienvenue sur cette page dédiée aux claviers mécaniques, qui vise en premier 
 &nbsp;
 
 À noter :
-
-- Les informations sur le fonctionnement du topic sont toujours en tête du [premier post](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm).
 
 - Une liste de références de claviers recommandables est disponible en [troisième page du topic](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm#t71975).
 
